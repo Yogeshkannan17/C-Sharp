@@ -1,0 +1,14 @@
+C:\Users\yoges\source\repos\TicTacGUI\bin\Debug\TicTacGUI.exe.config
+C:\Users\yoges\source\repos\TicTacGUI\bin\Debug\TicTacGUI.exe
+C:\Users\yoges\source\repos\TicTacGUI\bin\Debug\TicTacGUI.pdb
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.csproj.AssemblyReference.cache
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.Form1.resources
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.Properties.Resources.resources
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.csproj.GenerateResource.cache
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.csproj.CoreCompileInputs.cache
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.exe
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.pdb
+C:\Users\yoges\source\repos\TicTacGUI\bin\Debug\BoardLogic.dll
+C:\Users\yoges\source\repos\TicTacGUI\bin\Debug\BoardLogic.pdb
+C:\Users\yoges\source\repos\TicTacGUI\obj\Debug\TicTacGUI.csproj.CopyComplete
